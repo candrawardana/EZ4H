@@ -82,9 +82,9 @@
 
         <!-- MCJava PacketLib -->
         <dependency>
-            <groupId>me.liuli</groupId>
-            <artifactId>MCProtocolLib</artifactId>
-            <version>1.12.2-1</version>
+            <groupId>com.github.Gjum</groupId>
+            <artifactId>MCProtocolLib-1.12.2-LTS</artifactId>
+            <version>1.0.0</version>
         </dependency>
         <dependency>
             <groupId>com.github.steveice10</groupId>
